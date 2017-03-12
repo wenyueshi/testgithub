@@ -10,11 +10,12 @@ package testgithub;
  * @author swy
  */
 public class Testgithub {
-
+   
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("testgithub.Testgithub.main()");
         // TODO code application logic here
     }
     
